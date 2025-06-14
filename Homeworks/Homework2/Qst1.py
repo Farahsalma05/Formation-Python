@@ -17,3 +17,6 @@ elif x=="scissors" and y=="paper":
        print("player 1 wins")
 else:
     print("invalid input")
+    
+    
+    
