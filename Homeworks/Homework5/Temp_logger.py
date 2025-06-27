@@ -17,4 +17,4 @@ for i in range (len(temps)) :
 avg =sum(temps) / len(temps)
 print("the highest temperature is : ",max_temp)
 print("the lowest temperature is : ",min_temp)
-print("Average temperature: {:.1f}".format(avg))
+print(f"Average temperature: {avg:.2f}")
